@@ -1,3 +1,6 @@
+.dart_tool/*
+example/*
+
 # Miscellaneous
 *.class
 *.log
